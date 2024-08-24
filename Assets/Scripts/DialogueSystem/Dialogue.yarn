@@ -1,0 +1,97 @@
+
+title: SaveGame
+---
+Save successful
+===
+title: VendorUnavailable
+---
+Purchase not available
+===
+title: InventoryFull
+---
+Your inventory is already full!
+===
+title: Sleep
+---
+zzz
+You wake up feeling rested
+===
+title: Berries
+---
+You found berries
+===
+title: Costume
+---
+You found a spooky Halloween costume
+===
+title: Crystal
+---
+You found a crystal
+===
+title: Currency
+---
+You found gold!
+===
+title: Feather
+---
+You found a feather
+===
+title: Potion
+---
+You obtained a potion
+===
+title: 6Window
+---
+Misty forest, pine trees marching into the distance, air of eerie disquiet
+===
+title: 6Potions
+---
+An assortment of potion bottles
+===
+title: 6Hat
+---
+A stylish albeit crinkled hat of a resplendant purple velour
+===
+title: 6Plant
+---
+A healthy looking flora
+===
+title: 6Pumpkin
+---
+A pumpkin sits sneering
+===
+title: 6Pumpkin1
+---
+A pumpkin sits heartily grinning
+Oddly, the heat of the roaring fireplace hasn't melted its sharp smile
+===
+title: 6Crystal
+---
+A quiet clinking sound emanates from the bucket of crystals in a myriad of colours
+They seem to be whispering of their own accord
+===
+title: 6Chest
+---
+A locked chest
+===
+title: 6Wardrobe
+---
+You feel a whisper of wind flow from the seemingly empty wardrobe
+A trinkle of laughter, like chimes
+===
+title: 6Cauldron
+---
+The cauldron bubbles and boils angrily with the concoction taking place inside
+===
+title: 6Fire
+---
+A fire roars merrily
+===
+title: 7Sign
+---
+Beware: Bellblossom Glade
+===
+title: 7Bellblossom
+---
+You caught a Bellblossom!
+===
