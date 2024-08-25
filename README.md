@@ -15,4 +15,11 @@ A project utilising Unity with C# and 2D pixel-art to create a game demo in whic
 
 ## Usage Example
 
-[![IGame Demo Scene](https://img.youtube.com/vi/jVbzblS3o9E/0.jpg)](https://www.youtube.com/watch?v=jVbzblS3o9E)
+[![Game Demo Scene](https://img.youtube.com/vi/jVbzblS3o9E/0.jpg)](https://www.youtube.com/watch?v=jVbzblS3o9E)
+
+## Playable Demo
+
+Demo available to download in [Release 1](https://github.com/BiancaDavey/GameDemo/releases/tag/1.0).
+
+Game demo with additional scenes available to download on [itch.io](https://lunar-raven.itch.io/strangelands).
+
