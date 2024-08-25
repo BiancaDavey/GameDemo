@@ -39,6 +39,9 @@ public class PauseMenu : MonoBehaviour
             else if (buttonName.Equals("ReturnToMainMenuButton")){
                 LoadMainMenu();
             }
+            else if (buttonName.Equals("ExitButton")){
+                ExitGame();
+            }
         }
     }
 
@@ -79,5 +82,10 @@ public class PauseMenu : MonoBehaviour
         if (isCurrentConversation) {
             isCurrentConversation = false;
         }
+    }
+
+    public void ExitGame() {
+        // UnityEditor.EditorApplication.isPlaying = false;
+        Application.Quit();
     }
 }

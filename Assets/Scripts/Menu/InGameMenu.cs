@@ -5,6 +5,7 @@ using UnityEngine;
 public class InGameMenu : MonoBehaviour
 {
     [Header("Menu Navigation")]
+    [SerializeField] private bool simpleMenu;
     [SerializeField] private PauseMenu pauseMenu;
     [SerializeField] private QuestMenu questMenu;
     [SerializeField] private StatusDisplay statusDisplay;
@@ -32,7 +33,7 @@ public class InGameMenu : MonoBehaviour
         }
         
         //  Activate/Hide Quest menu if J pressed.
-        if (Input.GetKeyDown(KeyCode.J)){
+        if (Input.GetKeyDown(KeyCode.J) && !simpleMenu){
             if (questMenuActive){
                 questMenu.HideQuestMenu();
             }
@@ -63,7 +64,7 @@ public class InGameMenu : MonoBehaviour
         }
 
         //  Activate/Hide Status display if TAB pressed.
-        if (Input.GetKeyDown(KeyCode.Tab)){
+        if (Input.GetKeyDown(KeyCode.Tab) && !simpleMenu){
             if (statusDisplayActive){
                 statusDisplay.HideStatusDisplay();
             }
@@ -79,7 +80,7 @@ public class InGameMenu : MonoBehaviour
         }
 
         //  Activate/Hide Inventory Test menu if I pressed.
-        if (Input.GetKeyDown(KeyCode.I)){
+        if (Input.GetKeyDown(KeyCode.I) && !simpleMenu){
             if (inventoryMenuActive){
                 inventoryMenu.HideInventoryMenu();
             }
