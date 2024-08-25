@@ -19,7 +19,7 @@ A project utilising Unity with C# and 2D pixel-art to create a game demo in whic
 
 ## Playable Demo
 
-Demo available to download in [Release 1](https://github.com/BiancaDavey/GameDemo/releases/tag/1.0).
+Demo available to download in [GameDemo 1.0 Release](https://github.com/BiancaDavey/GameDemo/releases/tag/1.0).
 
 Game demo with additional scenes available to download on [itch.io](https://lunar-raven.itch.io/strangelands).
 
