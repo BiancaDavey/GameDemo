@@ -21,5 +21,21 @@ A project utilising Unity with C# and 2D pixel-art to create a game demo in whic
 
 Demo available to download in [GameDemo 1.0 Release](https://github.com/BiancaDavey/GameDemo/releases/tag/1.0).
 
-Game demo with additional scenes available to download on [itch.io](https://lunar-raven.itch.io/strangelands).
+## Full Demo
+
+Game demo with additional scenes and features available to download on [itch.io](https://lunar-raven.itch.io/strangelands).
+
+### Additional Features
+
+* Inventory system enabling player to obtain, view and use items
+* Inventory UI displaying player items, quantity, and item description
+* Quest system enabling player progress to be recorded and utilised for scene triggers for dynamic changes in dialogue, item availability, new scenes being unlocked, and lighting and animation changes
+* Data persistence system enabling player progress to be saved and loaded
+* Pause Menu UI in game enabling player to save game and return to main menu
+* Data persistence interface enables data persistence class methods to be implemented across inventory, quest, player status, and dialogue systems
+* Status UI displaying player bars for health and magicka
+* Player status can be updated by interactions with objects in scene
+* Player status can be updated by player using items from inventory (eg. using “berries” adds 10 to health bar)
+* Main menu UI enabling player to start a new game, load a saved game, continue the most recently saved game, view settings for the game, or exit the game
+* Load game menu displays up to four saved games, the date and time it was saved, and an image representing the scene the game was saved in
 
