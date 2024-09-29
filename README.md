@@ -23,7 +23,7 @@ Demo available to download in [GameDemo 1.0 Release](https://github.com/BiancaDa
 
 ## Full Demo
 
-Game demo with additional scenes and features available to download on [itch.io](https://lunar-raven.itch.io/strangelands).
+Full game demo with additional scenes and features available to download on [itch.io](https://lunar-raven.itch.io/strangelands). Read more about the game [here](https://biancadavey.github.io/Site).
 
 ### Additional Features
 
