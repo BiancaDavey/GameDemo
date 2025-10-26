@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/00_MainMenu.unity
     guid: fadd1e6b86c33144cbc1d75f891f9368
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/StrangelandsDemo.unity
     guid: 31d5e9d074dc97c4091d39763b0bd6d9
   m_configObjects: {}

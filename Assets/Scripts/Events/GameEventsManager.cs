@@ -76,4 +76,12 @@ public class GameEventsManager : MonoBehaviour
             onUpdateItemPurchaseText(key, cost);
         }
     }
+
+    //  Game events for player score.
+    public event Action onUpdateScore;
+    public void UpdateScore(){
+        if (onUpdateScore != null){
+            onUpdateScore();
+        }
+    }
 }
